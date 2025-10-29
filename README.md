@@ -38,7 +38,9 @@ I have worked with **airborne magnetometry, gamma-ray spectrometry, borehole dat
 
 ## Projects
 
-Soon.
+Soon:
+- Geodata Exploration Toolkit — *(Coming soon)*
+- ML models for copper prediction using geophysical and geological data — *(Coming soon)*
 
 ---
 
