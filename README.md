@@ -11,16 +11,6 @@ I have worked with **airborne magnetometry and gamma-ray spectrometry, borehole 
 
 ---
 
-## Skills 
-
-| **Área**                   | **Competências**                                                                                                                                                                                                                                                                                 |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Data Science & ML**      | - Data cleaning, feature selection  <br> - Model training: Random Forest (RF), MLP, Gaussian Processes (GP) <br> - Cross-validation & hyperparameter tuning <br> - Evaluation: F1-score, ROC AUC, domain-specific metrics <br> - Interpretability via feature importance and spatial correlation |
-| **Statistical tools**      | - Correlation analysis <br> - PCA (Principal Component Analysis) <br> - Skewness & kurtosis <br> - Normality testing & data transformation                                                                                                                                                       |
-| **Geospatial mapping**     | - Visualizations with `GeoPandas`, `matplotlib` <br> - Coordinate transformations, spatial joins & overlays <br> - Geological and geophysical map analysis                                                                                                                                       |
-| **Reproducible workflows** | - Modular code design in Python <br> - Use of notebooks for pipeline stages <br> - IDE: Spyder <br> - Clear separation between preprocessing, modeling, and evaluation                                                                                                                           |
----
-
 ## Projects
 
 Soon:
