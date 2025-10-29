@@ -1,22 +1,11 @@
 
-# Amahe — Geophysics & Machine Learning for Subsurface Modeling
+# Hi, I'm an undergraduate in Geophysics in São Paulo, Brazil
 
 I'm an undergraduate in Geophysics working at the intersection of **subsurface data analysis** and **machine learning**, with broad interest in data science for geosciences.
 
 This profile showcases my academic and applied projects, from predictive modeling of mineral occurrences using real-world geophysical data to exploratory analysis of complex, multivariate datasets. I work mainly with open-source tools and public datasets (e.g., CPRM, ANP).
 
----
-
-## About
-
-With a background in Earth sciences and quantitative modeling, my experience bridges:
-
-- Spatial data analysis
-- Exploratory statistics
-- Supervised machine learning
-- Geophysical processing
-- Geophysical and geological interpretation
-- Open geodata workflows
+With a background in Earth sciences and quantitative modeling, my experience bridges spatial data analysis, exploratory statistics, Supervised machine learning, geophysical & geological processing data and open geodata workflows.
 
 I have worked with airborne magnetometry, gamma-ray spectrometry, borehole data, lithologies, faults, and structural features to build interpretable ML models and data visualizations.
 
@@ -38,6 +27,7 @@ My main work includes preprocessing and analysis of large-scale geophysical data
   - Ratio maps (e.g., K/Th)
   - Interpretation of hydrothermal alteration indicators
   - Domain segmentation and zonal statistics
+  - 
 These variables are integrated with geological and structural data for predictive modeling and visual interpretation.
 
 ---
