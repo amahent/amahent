@@ -1,7 +1,7 @@
 
-# Hi, I'm an undergraduate in Geophysics in São Paulo, Brazil
+# Hi, I'm an undergraduate in Geophysics in Brazil
 
-I'm an undergraduate in Geophysics working at the intersection of **subsurface data analysis** and **machine learning**, with broad interest in data science for geosciences.
+My main interest is working at the intersection of **subsurface data analysis** and **machine learning**, with broad interest in **geostatistics**.
 
 This profile showcases my academic and applied projects, from **predictive modeling of mineral occurrences** using real-world **geophysical data** to exploratory analysis of complex, **multivariate dataset**s. I work mainly with open-source tools and public datasets (e.g., CPRM, ANP).
 
