@@ -7,33 +7,18 @@ This profile showcases my academic and applied projects, from **predictive model
 
 With a background in Earth sciences and quantitative modeling, my experience bridges **spatial data analysis, exploratory statistics, supervised machine learning, geophysical & geological processing data and open geodata workflows**.
 
-I have worked with **airborne magnetometry, gamma-ray spectrometry, borehole data, lithologies, faults, and structural features** to build interpretable ML models and data visualizations.
+I have worked with **airborne magnetometry and gamma-ray spectrometry, borehole data, lithologies, faults, and structural features** to build interpretable ML models and data visualizations.
 
 ---
 
-## Skills Demonstrated
+## Skills 
 
-- **Data Science & ML**
-  - Data cleaning, feature selection
-  - Model training (Random Forest (RF),  Multilayer Perceptron (MLP), Gaussian Processes (GP)
-  - Cross-validation and hyperparameter tuning
-  - Evaluation: F1-score, ROC AUC, geological and aerogeophysical data
-  - Interpretability via feature importance and spatial correlation
-
-- **Statistical Tools**
-  - Correlation analysis, PCA, skewness & kurtosis
-  - Normality tests and transformation
-
-- **Geospatial Mapping**
-  - Visual outputs in Python using `GeoPandas`, `matplotlib`
-  - Coordinate transformations and spatial overlays
-  - Geological map interpretation
-
-- **Reproducible Workflows**
-  - Python, Spyder
-  - Modular notebook design
-  - Clear separation of preprocessing, modeling, and evaluation
-
+| **Área**                   | **Competências**                                                                                                                                                                                                                                                                                 |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Data Science & ML**      | - Data cleaning, feature selection  <br> - Model training: Random Forest (RF), MLP, Gaussian Processes (GP) <br> - Cross-validation & hyperparameter tuning <br> - Evaluation: F1-score, ROC AUC, domain-specific metrics <br> - Interpretability via feature importance and spatial correlation |
+| **Statistical tools**      | - Correlation analysis <br> - PCA (Principal Component Analysis) <br> - Skewness & kurtosis <br> - Normality testing & data transformation                                                                                                                                                       |
+| **Geospatial mapping**     | - Visualizations with `GeoPandas`, `matplotlib` <br> - Coordinate transformations, spatial joins & overlays <br> - Geological and geophysical map analysis                                                                                                                                       |
+| **Reproducible workflows** | - Modular code design in Python <br> - Use of notebooks for pipeline stages <br> - IDE: Spyder <br> - Clear separation between preprocessing, modeling, and evaluation                                                                                                                           |
 ---
 
 ## Projects
