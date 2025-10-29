@@ -1,126 +1,88 @@
 
-# 👋 Olá, eu sou a Amahe
+# Amahe — Geophysics & Machine Learning for Subsurface Modeling
 
-🎓 Graduanda em Geofísica | 🤖 Pesquisa em ML para Prospecção Mineral
+I'm an undergraduate in Geophysics working at the intersection of **subsurface data analysis** and **machine learning**, with broad interest in data science for geosciences.
 
-Sou estudante de Geofísica e desenvolvo pesquisa aplicada com foco em **predição de ocorrências minerais** usando algoritmos de **Machine Learning supervisionado** e dados reais da indústria mineral, como:
-
-- 🔎 Dados aerogeofísicos (magnetometria, gamaespectrometria)
-- 🧪 Dados geoquímicos multivariados
-- 🧭 Informações geológicas e estruturais regionais
-
-Tenho experiência prática em projetos que envolvem:
-
-- 📊 Preparação e análise exploratória de dados multidimensionais
-- 🧹 Pré-processamento e validação de dados reais com ruído e lacunas
-- 🧠 Treinamento e avaliação de modelos preditivos com foco em interpretabilidade
-- 📈 Visualização de resultados em mapas e gráficos para análise integrada
-
-> _"Traduzir padrões geológicos em modelos quantitativos é um passo essencial para inovação na exploração mineral."_ 🌍
+This profile showcases my academic and applied projects, from predictive modeling of mineral occurrences using real-world geophysical data to exploratory analysis of complex, multivariate datasets. I work mainly with open-source tools and public datasets (e.g., CPRM, ANP).
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## About
 
-- **Linguagem**: Python  
-- **Análise de Dados**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Modelagem Preditiva**: Scikit-learn  
-- **Geociências**: GeoPandas (básico), visualizações com coordenadas geográficas  
-- **Versionamento e Reprodutibilidade**: Git e GitHub  
+With a background in Earth sciences and quantitative modeling, my experience bridges:
 
----
+- Spatial data analysis
+- Exploratory statistics
+- Supervised machine learning
+- Geophysical processing
+- Geophysical and geological interpretation
+- Open geodata workflows
 
-## 📚 Em Aprendizado Ativo
-
-- Engenharia de atributos para dados geológicos
-- Seleção de modelos e validação cruzada em ML
-- Logging, testes e pipelines reprodutíveis em Python
+I have worked with airborne magnetometry, gamma-ray spectrometry, borehole data, lithologies, faults, and structural features to build interpretable ML models and data visualizations.
 
 ---
 
-## 🌐 Idiomas
+## Geophysical Data Experience
 
-- 🇧🇷 Português (nativo)  
-- 🇺🇸 Inglês (intermediário/avançado)  
+My main work includes preprocessing and analysis of large-scale geophysical datasets, especially airborne surveys:
 
----
+- 🧲 **Magnetics:**
+  - Reduction to Equator (RTE)
+  - Upward continuation
+  - Vertical derivatives and gradients (Dz, GT)
+  - Magnetic lineament mapping
+  - Domain segmentation and zonal statistics
 
-## 📌 Projetos em Destaque
-
-| Projeto | Descrição |
-|--------|-----------|
-| [🔍 Predição de Ocorrências Minerais](link-do-repo) | Projeto de TCC com pipeline de ML supervisionado (Random Forest e SVM) para prever zonas de interesse mineral com base em dados reais de uma área no Brasil. |
-| [📊 Análise Exploratória de Dados Geoquímicos](link-do-repo) | Visualização e estatísticas descritivas de dados geoquímicos multielementares para suporte à classificação e modelagem. |
-| [⚙️ Mini-pipeline de Machine Learning](link-do-repo) | Projeto modular de ML com separação de etapas: limpeza, treino, validação e geração de mapas preditivos. |
-
----
-
-## 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-- 📧 seuemail@exemplo.com  
+- ☢️ **Gamma-ray Spectrometry:**
+  - K, U, Th channel processing
+  - Ratio maps (e.g., K/Th)
+  - Interpretation of hydrothermal alteration indicators
+  - Domain segmentation and zonal statistics
+These variables are integrated with geological and structural data for predictive modeling and visual interpretation.
 
 ---
 
-# 🇬🇧 English Version
+## Skills Demonstrated
 
-## 👋 Hi, I'm Amahe
+- **Data Science & ML**
+  - Data cleaning, feature selection
+  - Model training (Random Forest (RF),  Multilayer Perceptron (MLP), Gaussian Processes (GP)
+  - Cross-validation and hyperparameter tuning
+  - Evaluation: F1-score, ROC AUC, geological and aerogeophysical data
+  - Interpretability via feature importance and spatial correlation
 
-🎓 Geophysics Undergraduate | 🤖 Researcher in ML for Mineral Exploration
+- **Statistical Tools**
+  - Correlation analysis, PCA, skewness & kurtosis
+  - Normality tests and transformation
 
-I'm an undergraduate student in Geophysics developing applied research using **Machine Learning** to predict **mineral occurrences** from real-world datasets such as:
+- **Geospatial Mapping**
+  - Visual outputs in Python using `GeoPandas`, `matplotlib`
+  - Coordinate transformations and spatial overlays
+  - Geological map interpretation
 
-- 🔎 Airborne geophysical data (magnetics, gamma-ray spectrometry)
-- 🧪 Multivariate geochemical assays
-- 🧭 Regional geological and structural information
-
-My work involves:
-
-- 📊 Exploratory analysis of multidimensional data  
-- 🧹 Preprocessing and cleaning of noisy and incomplete datasets  
-- 🧠 Training and evaluating predictive models with focus on explainability  
-- 📈 Visualizing results through maps and graphs for integrated interpretation  
-
-> _"Translating geological patterns into quantitative models is key to innovation in mineral exploration."_ 🌍
-
----
-
-## 🛠️ Tools and Technologies
-
-- **Language**: Python  
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
-- **ML Models**: Scikit-learn (Random Forest, SVM, etc.)  
-- **Geoscience**: GeoPandas (basic), coordinate-based visualization  
-- **Version Control**: Git & GitHub  
+- **Reproducible Workflows**
+  - Python, Spyder
+  - Modular notebook design
+  - Clear separation of preprocessing, modeling, and evaluation
 
 ---
 
-## 📚 Currently Learning
+## Tools & Libraries
 
-- Feature engineering for geoscientific data  
-- Model selection and cross-validation  
-- Logging, testing, and reproducible ML pipelines  
-
----
-
-## 🌐 Languages
-
-- 🇧🇷 Portuguese (native)  
-- 🇺🇸 English (intermediate/advanced)  
+- Python
+  - pandas, numpy, matplotlib, seaborn, plotly
+  - scikit-learn, imbalanced-learn
+  - GeoPandas, rasterio, shapely
+  - Google Colab, Spyder
 
 ---
 
-## 📌 Featured Projects
+## Projects
 
-| Project | Description |
-|--------|-------------|
-| [🔍 Mineral Occurrence Prediction](repo-link) | BSc research project: supervised ML pipeline (Random Forest & SVM) to predict mineral zones based on real-world geoscientific data from a Brazilian region. |
-| [📊 Geochemical Data Exploration](repo-link) | Exploratory visualizations and multivariate statistics for geochemical datasets, supporting further modeling. |
-| [⚙️ ML Mini-Pipeline](repo-link) | Modular Python project: data cleaning, training, validation, and prediction map generation. |
+Soon.
 
 ---
 
-## 📫 Contact
+## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-- 📧 your.email@example.com  
+- [LinkedIn](https://linkedin.com/in/seuusuario)
