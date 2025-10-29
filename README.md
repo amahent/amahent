@@ -36,16 +36,6 @@ I have worked with airborne magnetometry, gamma-ray spectrometry, borehole data,
 
 ---
 
-## Tools & Libraries
-
-- Python
-  - pandas, numpy, matplotlib, seaborn, plotly
-  - scikit-learn, imbalanced-learn
-  - GeoPandas, rasterio, shapely
-  - Google Colab, Spyder
-
----
-
 ## Projects
 
 Soon.
